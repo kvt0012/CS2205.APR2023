@@ -9,12 +9,11 @@ GVHD: PGS.TS Lê Đình Duy
 Repo bao gồm tất cả tài liệu liên quan tới môn học PPNCKH - CS2205
 
 
-## Member
+## Danh mục tài liệu
 
 |Order|    Danh mục tài liệu         |        
 |:---:| :-----------:     | 
-|1    |    [Slide]    | 
-|2    |    [ResearchReposalReport]   | 
-|3    |    [Poster] | 
+|1    |    Slide    | 
+|2    |    Research Proposal Report   | 
+|3    |    Poster | 
 
-## Status of repository
